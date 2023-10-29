@@ -1,2 +1,4 @@
 # MSRIC
 Make Something Real in Code
+
+![MS3](https://github.com/FURY312/MSRIC/assets/79848348/fc5da6c0-f3a7-46c2-ae6f-47b2aebd44df)
