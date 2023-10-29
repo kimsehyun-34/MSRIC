@@ -3,6 +3,7 @@ Make Something Real in Code
 
 --------
 ## install
+node.js 기반 HTML & CSS
 - npm init
 
 ---------
