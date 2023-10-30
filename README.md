@@ -1,6 +1,7 @@
 # MSRIC
 Make Something Real in Code
 
+* [ ] ㄴㄴ 
 --------
 ## install
 node.js 기반
