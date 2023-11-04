@@ -1,7 +1,6 @@
 # MSRIC
 Make Something Real in Code
 
-552140379447-jnpvl1a6kmkvnpiqe5pnjh3h0r707jcg.apps.googleusercontent.com
 --------
 ## 작업 리스트
 
