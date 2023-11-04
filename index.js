@@ -11,3 +11,7 @@ console.log('실행: http://localhost:8080');
 app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/html/main.html')
 });
+
+app.get('/login', function (req, res) {
+    res.sendFile(__dirname + '/public/html/login.html')
+});
