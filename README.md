@@ -1,7 +1,6 @@
 # MSRIC
 Make Something Real in Code
 
-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
 --------
 ## 작업 리스트
 
